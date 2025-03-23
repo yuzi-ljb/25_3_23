@@ -1,5 +1,5 @@
 #include<stdio.h>
-# include <cmath>
+#include<math.h>
 
 /*  
 第一题
@@ -42,7 +42,7 @@
 
 
 /*  第三题 */
-//
+
 //int main()
 //{
 //	int d = 300000;
